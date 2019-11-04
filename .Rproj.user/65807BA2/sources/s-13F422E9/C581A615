@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572752396519.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2433631082",
+    "id" : "C581A615",
+    "lastKnownWriteTime" : 1572752697,
+    "last_content_update" : 1572752697856,
+    "path" : "D:/OneDrive - RMIT University/Current Studies/Practice visulisation/Loan calculator/mortgage-master/mortgage-master/server.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "96,0",
+        "scrollLine" : "76"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,12 @@
+name: LoanCalculator
+title: LoanCalculator
+username:
+account: chriszhang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1414982
+bundleId: 2560228
+url: https://chriszhang.shinyapps.io/LoanCalculator/
+when: 1572760427.0595
+asMultiple: FALSE
+asStatic: FALSE
